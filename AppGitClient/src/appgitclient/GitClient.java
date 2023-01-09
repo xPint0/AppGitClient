@@ -6,7 +6,7 @@ package appgitclient;
 
 /**
  * gitclient : Describe el tipo de Gitclient elegido
- * @author rhtuf
+ * @author Pint0
  */
 public class GitClient {
     
